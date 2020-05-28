@@ -10,4 +10,5 @@ Basic showcase of Perlin noise implementation, it allows the change of octaves a
  - add scrolling
  - optimise for larger scale
  - add colors
+ - add premade different biomes
  - optimise
