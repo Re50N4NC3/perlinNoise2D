@@ -7,11 +7,11 @@ Basic showcase of Perlin noise implementation, it allows to change the seed, oct
 ![Alt Text](https://media.giphy.com/media/lSOFh3OlfMiLd65OWC/giphy.gif)
 
 # TODO
- - add convinient controls
- - add seamless (infinite) scrolling
- - add scrolling in all directions
- - optimise for larger scale
- - add colors
- - add premade different biomes
- - change showcase from voxel, to interpolated one
- - optimise
+ [ ] add convinient controls
+ [x] add seamless (infinite) scrolling
+ [ ] add scrolling in all directions
+ [ ] optimise for larger scale
+ [ ] add colors
+ [ ] add premade different biomes
+ [ ] change showcase from voxel, to interpolated one
+ [ ] optimise
